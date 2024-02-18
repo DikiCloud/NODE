@@ -37,3 +37,7 @@ networks:
         - subnet: "172.21.0.0/16"
     driver_opts:
       com.docker.network.bridge.name: wings0
+      
+      
+      
+      
